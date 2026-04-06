@@ -4,5 +4,5 @@ numpy
 yfinance
 scikit-learn
 xgboost
-ta
+pandas-ta
 plotly
